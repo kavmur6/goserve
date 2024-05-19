@@ -1,3 +1,5 @@
-module github.com/fly-apps/go-example
+module mallock.dev/goserve
 
-go 1.22
+go 1.22.2
+
+require golang.org/x/net v0.25.0
